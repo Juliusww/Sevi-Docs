@@ -2,6 +2,11 @@
 
 To access SEVI on USSD platform Dial **`*789*7788#`**
 
+Services available on USSD
+1. Pay for order
+2. Check your active credits
+3. Account status and balances
+4. Help
 
 ## 0. New User Registration Flow
 
